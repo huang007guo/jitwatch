@@ -15,8 +15,9 @@ The JITWatch user interface is built using JavaFX. This is included in the Oracl
 <pre>ant clean compile test run</pre>
 
 <h2>maven</h2>
+<pre>mvn clean compile exec:java</pre>
+or
 <pre>mvn clean compile test exec:java</pre>
-
 <h2>gradle</h2>
 <pre>gradlew clean build run</pre>
 
