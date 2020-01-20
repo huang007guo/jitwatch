@@ -21,6 +21,8 @@ or
 <h2>gradle</h2>
 <pre>gradlew clean build run</pre>
 
+打包成功后以后运行:`launchUI.bat` 或 `launchUI.sh`就可以了
+
 <h2>Build an example HotSpot log</h2>
 <pre># Build the code first with ant / maven / IDE
 ./makeDemoLogFile.sh</pre>
